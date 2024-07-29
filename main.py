@@ -7,7 +7,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 
 # Load data
-movies_path = r"C:\Users\Admin\Desktop\Movie\data\df_cinema2.csv"
+movies_path = "df_cinema2.csv"
 df_movies = pd.read_csv(movies_path, low_memory=False)
 
 # Page Configuration
