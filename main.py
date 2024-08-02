@@ -8,7 +8,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 # Load data
 movies_path = "df_released.csv"
-not_relased_movies_path= "df_not_released.csvv"
+not_relased_movies_path= "df_not_released.csv"
 
 df_movies = pd.read_csv(movies_path, low_memory=False)
 df_future_movies=pd.read_csv(not_relased_movies_path, low_memory=False)
