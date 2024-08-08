@@ -14,13 +14,9 @@ The goal of this project is to analyze movie data and provide insights. We use d
 ## Datasets
 The project uses datasets from:
 -IMDb: [IMDb Datasets](https://www.imdb.com/interfaces/)
--https://www.kaggle.com/datasets/alanvourch/tmdb-movies-daily-updates/data  Alan Vourc'h
--https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies  asaniczka
 
-- [Datasets](#datasets)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+-https://www.kaggle.com/datasets/alanvourch/tmdb-movies-daily-updates/data  Alan Vourc'h
+
+-https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies  asaniczka
 
 
